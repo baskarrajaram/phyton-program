@@ -18,4 +18,4 @@ def wordPattern(pattern, s):
     return True
 pattern = "abba"
 s = "dog cat cat dog"
-print(wordPattern(pattern, s))  # Output: True
+print(wordPattern(pattern, s))  
